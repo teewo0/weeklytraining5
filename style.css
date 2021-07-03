@@ -1,0 +1,22 @@
+body {
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+}
+
+.block {
+    background-color: cornsilk;
+    height: 500px;
+    width: 600px;
+    text-align: center;
+    color: rgb(31, 4, 4);
+}
+
+form div {
+    margin: 20px;
+}
+
+form div input {
+    width: 70%;
+    height: 30px;
+}
